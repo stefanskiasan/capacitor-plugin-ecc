@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ASN1",
+        "repositoryURL": "https://github.com/leif-ibsen/ASN1",
+        "state": {
+          "branch": null,
+          "revision": "53e0b34a34f882386e09d10d6d00bb7e969e307f",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/leif-ibsen/BigInt",
+        "state": {
+          "branch": null,
+          "revision": "1fc28a5008c4eb0ee7b8bb4f882a7a22d8d7ca8c",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "SwiftECC",
+        "repositoryURL": "https://github.com/leif-ibsen/SwiftECC",
+        "state": {
+          "branch": null,
+          "revision": "8a50f1dab62bee204e9db57ff51c93eba0fb6e78",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
